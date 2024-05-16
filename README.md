@@ -1,16 +1,20 @@
-# crud_flutter_app
+# CRUD Application.
+CRUDify, built with Flutter, empowers users to seamlessly Create, Read, Update, and Delete data with ease. Whether managing tasks, organizing contacts, or handling inventory, CRUDify streamlines the process, offering a user-friendly interface and efficient data management capabilities, all at your fingertips
+# Screenshot
+ <table>
+  <tr>
+    <td>Home Screen</td>
+     <td>Add Screen</td>
+     <td>Edit Screen</td>
+     <td>Delete Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/hamxamehboob/crud_flutter_app/assets/97390895/8d04eab9-db64-4bc0-be78-9e9dd701b778.jpg" width="1000%"></img></td>
+    <td><img src="https://github.com/hamxamehboob/crud_flutter_app/assets/97390895/3d0c59de-6c16-4fed-a62c-2732bd7f8f51.jpg" width="1000%"></img></td>
+    <td><img src="https://github.com/hamxamehboob/crud_flutter_app/assets/97390895/8be32254-c7bb-48f9-a627-61a74eda4f59.jpg" width="1000%"></img></td>
+    <td><img src="https://github.com/hamxamehboob/crud_flutter_app/assets/97390895/42810314-a2dc-4138-89bb-8a86c0e01027.jpg" width="1000%"></img></td>
+  </tr>
+ </table>
+ 
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
